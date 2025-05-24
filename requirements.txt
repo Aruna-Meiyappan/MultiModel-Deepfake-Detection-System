@@ -1,0 +1,11 @@
+torch
+torchaudio
+opencv-python
+tesserocr
+numpy
+pandas
+matplotlib
+scikit-learn
+streamlit
+whisper
+# yolov7==0.1.0
