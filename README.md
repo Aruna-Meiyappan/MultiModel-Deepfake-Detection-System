@@ -10,12 +10,12 @@ Detection pipeline combining CNN, LSTM, WaveNet, BERT, and YOLOv7 to flag manipu
 Python · TensorFlow · PyTorch · YOLOv7 · BERT
 
 ## How to Run
-\`\`\`bash
+```bash
 git clone https://github.com/Aruna-Meiyappan/MultiModel-Deepfake-Detection-System
 cd MultiModel-Deepfake-Detection-System
 pip install -r requirements.txt
 python main.py
-\`\`\`
+```
 
 ## Note
 A Streamlit demo was attempted but currently has image-loading issues due to dataset size limits on free hosting. Working on a lighter-weight demo version.
